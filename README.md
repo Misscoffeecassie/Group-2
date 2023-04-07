@@ -18,9 +18,9 @@ The purpose of the analysis is to provide insights on these clubs and their play
 
 The analysis will also focus on two of the most influential players of the modern era – Lionel Messi vs Cristiano Ronaldo and identify how their skills have changed over time and the impact that has had on their team’s fortune in the UEFA Champions league. 
 
-**Research Questions to Answer: 
-**
-Question 1: 
+**Research Questions to Answer:**
+
+**Question 1:** 
  * Ideal budget to create a competitive team (at the level of top n teams in Europe) and at which point the budget does not allow to buy significantly better players for the 11-men line-up. 
  * An extra is the same comparison with the Potential attribute for the line-up instead of the Overall attribute. 
 
