@@ -6,7 +6,6 @@ Group Collaboration
 **Team Members**: 
  * Sandhalie Fernando
  * Cassie Guo
- * Samy George
  * Sandy Berahim
  * Graham Meadon 
 
@@ -29,7 +28,7 @@ The analysis will also focus on two of the most influential players of the moder
  * The trend of attributes is also an important indication of how some attributes are necessary for players to win games e.g. if top 5% players have higher Ball Control it would indicate that the game is more focused on the technique rather than the physical aspect). 
 
 **Question 3:**
- * Identifying the best player in 2021 for each position analysing: 
+ * Identifying the best player in 2021 for each position in the English Premier League by analysing: 
     * Age distributions 
     * Height and Weight
     * Foot preference 
@@ -37,10 +36,9 @@ The analysis will also focus on two of the most influential players of the moder
     * Total costs will be of such a team vs Top Clubs current costs 
 
 **Question 4**:
-
  * Historical comparison between Messi and Ronaldo between 2017 to 2021 analysing:
     * What skill attributes changed the most
-    * Performance vs potential during the period
+    * goal comparison vs overall performance vs value in Euros
     * outcome of their respective club’s performance in the UEFA Champions league 
 
 Datasets used:  
