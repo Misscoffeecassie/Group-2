@@ -39,23 +39,23 @@ The analysis will also focus on two of the most influential players of the moder
  * Historical comparison between Messi and Ronaldo between 2017 to 2021 analysing:
    * What skill metrics changed the most over the period?
     * Key findings from the analysis
-      * 1) Messi has had the more consistent overall performance score when compared to Ronaldo however both have maintained the same average overall performance score           over the period
-      * 2) Messi has been the higher valued player throughout his career when compared to Ronaldo
-      * 3) Ronaldo has scored more goals on average for the period compared to Messi although it is only a marginal difference 
-      * 4) Messi has a significantly better goal assists average over the period compared to Ronaldo
+      * Messi has had the more consistent overall performance score when compared to Ronaldo however both have maintained the same average overall performance score           over the period
+      * Messi has been the higher valued player throughout his career when compared to Ronaldo
+      * Ronaldo has scored more goals on average for the period compared to Messi although it is only a marginal difference 
+      * Messi has a significantly better goal assists average over the period compared to Ronaldo
    
    * Key attributes comparison for each player
     * Key findings from the analysis
-      * 5) Over the period both Ronaldo and Messi have performed similar across the Key Performance Metrics of Pace, Shooting, Dribbling, Defending and Physicality
-      * 6) The data suggests that over the period Ronaldo has performed more consistently across the Key Performance Metrics with less variations between his lower and            upper quartiles when compared to Messi however Messi has the higher Median score across the years
-      * 7) Over the periods Defending have been each players’ weakest point and forms the outliers in the data - this will be removed from the analysis going forward
+      * Over the period both Ronaldo and Messi have performed similar across the Key Performance Metrics of Pace, Shooting, Dribbling, Defending and Physicality
+      * The data suggests that over the period Ronaldo has performed more consistently across the Key Performance Metrics with less variations between his lower and           upper quartiles when compared to Messi however Messi has the higher Median score across the years
+      * Over the periods Defending have been each players’ weakest point and forms the outliers in the data - this will be removed from the analysis going forward
    
    * How the two attributes and performance metrics has impacted their overall performance rating vs goals scored and assists vs value in Euros?
     * Key findings from the analysis
-      * 8) The data suggests that both Messi and Ronaldo have areas within the metrics where they are the top performer over the period:
+      * The data suggests that both Messi and Ronaldo have areas within the metrics where they are the top performer over the period:
          * Messi performs best over time in: Passing, Dribbling
          * Ronaldo performs best over time in: Pace, Shooting, Physicality
-      * 9) The skills that have changed the most overtime over for each player
+      * The skills that have changed the most overtime over for each player
          * Improvement 
              * Messi - Passing and Defending where Messi overtook Ronaldo was in Defending
          * Reduction
