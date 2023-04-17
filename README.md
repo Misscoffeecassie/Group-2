@@ -34,12 +34,10 @@ The analysis will also focus on two of the most influential players of the moder
  * The trend of attributes is also an important indication of how some attributes are necessary for players to win games e.g. if top 5% players have higher Ball Control it would indicate that the game is more focused on the technique rather than the physical aspect). 
 
 **Question 3:**
- * Identifying the best player in 2021 for each position in the English Premier League by analysing: 
-    * Age distributions 
-    * Height and Weight
-    * Foot preference 
-    * Median Overall skill set
-    * Total costs will be of such a team vs Top Clubs current costs 
+ * Base on the 2021 EPL result, analyse the winning club and its team member performance and how the    club spending affect the performance. 
+   * What we are trying to find out if a club were to win the 2021 English Premier League has to do        with the club spending.
+   * The type of player each club get based on the spending.
+   * How does these players contribute to the club performance.
 
 **Question 4**:
  * Historical comparison between Messi and Ronaldo between 2017 to 2021 analysing:
