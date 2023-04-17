@@ -25,13 +25,13 @@ The analysis will also focus on two of the most influential players of the moder
 
 **Question 2:** 
 
-* What attributes such as mentality, defending, attacking, movement and power changed among the top 5% of the players over the 2017-2021 period?
+** What attributes such as mentality, defending, attacking, movement and power changed among the top 5% of the players over the 2017-2021 period?
 * main finding: 
 •Improved: Mentality, defending and attacking
 •Declined: Movement and power
 •The most significant change is in speed, with a decline of 9.12%
 
-* How does foot preference affect the player's position?
+** How does foot preference affect the player's position?
 * main finding: 
 •Out of all the positions the left-foot players dominate the positions: Center Forward (CF), Left Back(LB), and Left Wing Back(LWB).
 • most right-foot-dominated position: GK
