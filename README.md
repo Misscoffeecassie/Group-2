@@ -75,7 +75,7 @@ The analysis will also focus on two of the most influential players of the moder
  
    The challenge with concluding on who the better player is that whilst data and stats can tell a story, soccer is not a game played on paper and so other attributes    that cannot be measured play a significant role. 
 
-   As it was noted in the analysis, Messi has always been the higher value player. A person can potentially conclude that over time Messi has been the more                valued/(better?) player because it is more than just his skill that he brings to the team that makes him so valuable. An example of this could be his relative          performance on goal assists which could indicate his focus is on ensuring his team performs well vs his individual record. But can money determine who the better      player is?
+   As it was noted in the analysis, Messi has always been the higher value player. A person can potentially conclude that over time Messi has been the more                valued/(better?) player because it is more than just his skill that he brings to the team that makes him so valuable. An example of this could be his relative          performance on goal assists which could indicate his focus is on ensuring his team performs well vs his individual record. But is money really the true measure of      on who the the better player is?
 
    Fundamentally the debate will continue for a long time and will only really be decided by the passage of time and the future performances of both players.
 
