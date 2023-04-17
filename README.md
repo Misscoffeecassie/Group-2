@@ -1,7 +1,7 @@
 # Group-2
 Group Collaboration
 
-**We have upload all our code into one master file: Project_1_Group_2_FIFA_Players.ipynb. You will be run this one code in respect of all four questions**
+**We have upload all our code into one master file: Project_1_Group_2_FIFA_Players.ipynb. You will be able to run this one code in respect of all four questions**
 
 **Project Title**: FIFA Soccer Analysis – insights into European clubs and their players 2017 vs 2021 
 
