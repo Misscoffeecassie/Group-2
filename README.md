@@ -82,8 +82,11 @@ The analysis will also focus on two of the most influential players of the moder
 
 Datasets used:  
  * https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset
+ 
  * https://www.topendsports.com/sport/soccer/list-league-uefa.htm
+ 
  * https://www.messivsronaldo.app/calendar-year-stats/
+ 
  * Providing context around Soccer positions: https://the18.com/soccer-learning/soccer-positions-explained-names-numbers-and-roles  
 
 **Defenders:**
