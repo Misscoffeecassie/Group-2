@@ -20,24 +20,18 @@ The analysis will also focus on two of the most influential players of the moder
 **Research Questions to Answer:**
 
 **Question 1:** 
- * Ideal budget to create a competitive team (at the level of top n teams in Europe) and at which point the budget does not allow to buy significantly better players for the 11-men line-up. 
- * An extra is the same comparison with the Potential attribute for the line-up instead of the Overall attribute. 
+ * Correlation analysis between team players' wage and their overall performance, try to figure out wage will be the key factor to create a   competitive team： high salary will stimulate team players to have high performance.
+ Outcome 1: These two variables have a positive correlation by curve fitting because as wage increases, so does overall scores. And Overall performance above 85, their wage increased dramatically.
+
+ * Compared with overall average salary, to find the team players' golden age to have outstanding income (above average wage).
+   Outcome 2: Average wage of overall players in Year 2021 is: €8,675.67 and their Golden age: 21-28 years old.
+
+ * By Correlation analysis, to figure out whether Team players’ BMI (body mass index) will affect their Overall performance?
+   Outcome 3: There is a weakly positive correlation between Players BMI and their overall performace. The BMI is mainly concentrated around 20-26.
 
 **Question 2:** 
-
-** What attributes such as mentality, defending, attacking, movement and power changed among the top 5% of the players over the 2017-2021 period?
-* main finding: 
-•Improved: Mentality, defending and attacking
-•Declined: Movement and power
-•The most significant change is in speed, with a decline of 9.12%
-
-** How does foot preference affect the player's position?
-* main finding: 
-•Out of all the positions the left-foot players dominate the positions: Center Forward (CF), Left Back(LB), and Left Wing Back(LWB).
-• most right-foot-dominated position: GK
-(37 right-foot players vs 5 left-foot players)
-• most left-foot-dominated position: LB
-(25 left-foot players vs 5 right-foot players)
+ * Sample analysis of top 5% of the players to see if some important attributes have been important or not across the FIFA dataset e.g. are the top 5% players of FIFA 21 faster (higher Acceleration and Agility) compared to FIFA 17.  
+ * The trend of attributes is also an important indication of how some attributes are necessary for players to win games e.g. if top 5% players have higher Ball Control it would indicate that the game is more focused on the technique rather than the physical aspect). 
 
 **Question 3:**
  * Identifying the best player in 2021 for each position in the English Premier League by analysing: 
@@ -94,11 +88,8 @@ The analysis will also focus on two of the most influential players of the moder
 
 Datasets used:  
  * https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset
- 
  * https://www.topendsports.com/sport/soccer/list-league-uefa.htm
- 
  * https://www.messivsronaldo.app/calendar-year-stats/
- 
  * Providing context around Soccer positions: https://the18.com/soccer-learning/soccer-positions-explained-names-numbers-and-roles  
 
 **Defenders:**
