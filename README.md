@@ -32,7 +32,7 @@ The analysis will also focus on two of the most influential players of the moder
 •The most significant change is in speed, with a decline of 9.12%
 
 * How does foot preference affect the player's position?
-main finding: 
+* main finding: 
 •Out of all the positions the left-foot players dominate the positions: Center Forward (CF), Left Back(LB), and Left Wing Back(LWB).
 • most right-foot-dominated position: GK
 (37 right-foot players vs 5 left-foot players)
