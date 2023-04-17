@@ -60,7 +60,8 @@ The analysis will also focus on two of the most influential players of the moder
              * Messi - Passing and Defending where Messi overtook Ronaldo was in Defending
          * Reduction
              * Messi and Ronaldo - Pace has reduced but that is to be expected considering they are aging 5 years in the data
-      * 10) As identified in the previous analysis, the data suggests that Ronaldo is more consistent over the period in the metrics however the analysis identifies               that Messi has found areas of marked improvement
+      
+      * As identified in the previous analysis, the data suggests that Ronaldo is more consistent over the period in the metrics however the analysis identifies               that Messi has found areas of marked improvement
 
  * Question 4 conclusion 
    It is a topic that has been widely debated for a long time on who the GOAT is between Messi and Ronaldo. 
