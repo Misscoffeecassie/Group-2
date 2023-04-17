@@ -34,10 +34,14 @@ The analysis will also focus on two of the most influential players of the moder
  * The trend of attributes is also an important indication of how some attributes are necessary for players to win games e.g. if top 5% players have higher Ball Control it would indicate that the game is more focused on the technique rather than the physical aspect). 
 
 **Question 3:**
- * Base on the 2021 EPL result, analyse the winning club and its team member performance and how the club spending affect the performance. 
-   * What we are trying to find out if a club were to win the 2021 English Premier League has to do with the club spending.
+ * Base on the 2021 EPL result, analyse the winning club and its team member performance and how the    club spending affect the performance. 
+   * What we are trying to find out if a club were to win the 2021 English Premier League has to do        with the club spending.
    * The type of player each club get based on the spending.
    * How does these players contribute to the club performance.
+
+* Outcome for question 3: 
+
+* Based on the analysis, we can say in this case that having to spend the most money does not equivalent to winning the league. We can also concluded that the older the age, the more experience and performance each player is. Overall, the winning recipe to win in a league is not just how much you spend on the player but to have the experience player playing in the right position in order to maximise the club performance.
 
 **Question 4**:
  * Historical comparison between Messi and Ronaldo between 2017 to 2021 analysing:
