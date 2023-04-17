@@ -24,8 +24,20 @@ The analysis will also focus on two of the most influential players of the moder
  * An extra is the same comparison with the Potential attribute for the line-up instead of the Overall attribute. 
 
 **Question 2:** 
- * Sample analysis of top 5% of the players to see if some important attributes have been important or not across the FIFA dataset e.g. are the top 5% players of FIFA 21 faster (higher Acceleration and Agility) compared to FIFA 17.  
- * The trend of attributes is also an important indication of how some attributes are necessary for players to win games e.g. if top 5% players have higher Ball Control it would indicate that the game is more focused on the technique rather than the physical aspect). 
+
+* What attributes such as mentality, defending, attacking, movement and power changed among the top 5% of the players over the 2017-2021 period?
+* main finding: 
+•Improved: Mentality, defending and attacking
+•Declined: Movement and power
+•The most significant change is in speed, with a decline of 9.12%
+
+* How does foot preference affect the player's position?
+main finding: 
+•Out of all the positions the left-foot players dominate the positions: Center Forward (CF), Left Back(LB), and Left Wing Back(LWB).
+• most right-foot-dominated position: GK
+(37 right-foot players vs 5 left-foot players)
+• most left-foot-dominated position: LB
+(25 left-foot players vs 5 right-foot players)
 
 **Question 3:**
  * Identifying the best player in 2021 for each position in the English Premier League by analysing: 
