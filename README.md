@@ -39,9 +39,8 @@ The analysis will also focus on two of the most influential players of the moder
    * The type of player each club get based on the spending.
    * How does these players contribute to the club performance.
 
-* Outcome for question 3: 
-
-* Based on the analysis, we can say in this case that having to spend the most money does not equivalent to winning the league. We can also concluded that the older the age, the more experience and performance each player is. Overall, the winning recipe to win in a league is not just how much you spend on the player but to have the experience player playing in the right position in order to maximise the club performance.
+* Outcome for question 3:
+   * Based on the analysis, we can say in this case that having to spend the most money does not equivalent to winning the league. We can also concluded that the older the age, the more experience and performance each player is. Overall, the winning recipe to win in a league is not just how much you spend on the player but to have the experience player playing in the right position in order to maximise the club performance.
 
 **Question 4**:
  * Historical comparison between Messi and Ronaldo between 2017 to 2021 analysing:
